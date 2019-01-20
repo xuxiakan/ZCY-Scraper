@@ -1,0 +1,136 @@
+C:\Users\Administrator\source\repos\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\bin\Debug\IronWebScraper_ConsoleApp.exe.config
+C:\Users\Administrator\source\repos\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\bin\Debug\IronWebScraper_ConsoleApp.exe
+C:\Users\Administrator\source\repos\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\bin\Debug\IronWebScraper_ConsoleApp.pdb
+C:\Users\Administrator\source\repos\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\bin\Debug\IronWebScraper.dll
+C:\Users\Administrator\source\repos\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\bin\Debug\IronWebScraper.xml
+C:\Users\Administrator\source\repos\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\obj\Debug\IronWebScraper_ConsoleApp.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\obj\Debug\IronWebScraper_ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\obj\Debug\IronWebScraper_ConsoleApp.csproj.CopyComplete
+C:\Users\Administrator\source\repos\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\obj\Debug\IronWebScraper_ConsoleApp.exe
+C:\Users\Administrator\source\repos\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\obj\Debug\IronWebScraper_ConsoleApp.pdb
+C:\Users\Administrator\source\repos\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Administrator\source\repos\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Administrator\source\repos\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\bin\Debug\System.AppContext.dll
+C:\Users\Administrator\source\repos\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\bin\Debug\System.Console.dll
+C:\Users\Administrator\source\repos\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Administrator\source\repos\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Administrator\source\repos\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\bin\Debug\System.IO.Compression.dll
+C:\Users\Administrator\source\repos\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Administrator\source\repos\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Administrator\source\repos\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Administrator\source\repos\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\bin\Debug\System.IO.Packaging.dll
+C:\Users\Administrator\source\repos\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\bin\Debug\System.Net.Http.dll
+C:\Users\Administrator\source\repos\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\bin\Debug\System.Net.Sockets.dll
+C:\Users\Administrator\source\repos\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Administrator\source\repos\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Administrator\source\repos\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Administrator\source\repos\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Administrator\source\repos\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Administrator\source\repos\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Administrator\source\repos\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Administrator\source\repos\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Administrator\source\repos\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\bin\Debug\WebDriver.dll
+C:\Users\Administrator\source\repos\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\bin\Debug\WebDriver.xml
+C:\Users\Administrator\source\repos\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\bin\Debug\HtmlRenderer.dll
+C:\Users\Administrator\source\repos\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\bin\Debug\HtmlRenderer.pdb
+C:\Users\XX\Desktop\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\bin\Debug\IronWebScraper_ConsoleApp.exe.config
+C:\Users\XX\Desktop\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\bin\Debug\IronWebScraper_ConsoleApp.exe
+C:\Users\XX\Desktop\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\bin\Debug\IronWebScraper_ConsoleApp.pdb
+C:\Users\XX\Desktop\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\XX\Desktop\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\bin\Debug\HtmlRenderer.dll
+C:\Users\XX\Desktop\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\XX\Desktop\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\bin\Debug\System.AppContext.dll
+C:\Users\XX\Desktop\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\bin\Debug\System.Console.dll
+C:\Users\XX\Desktop\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\XX\Desktop\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\XX\Desktop\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\bin\Debug\System.IO.Compression.dll
+C:\Users\XX\Desktop\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\XX\Desktop\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\bin\Debug\System.IO.FileSystem.dll
+C:\Users\XX\Desktop\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\XX\Desktop\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\bin\Debug\System.IO.Packaging.dll
+C:\Users\XX\Desktop\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\bin\Debug\System.Net.Http.dll
+C:\Users\XX\Desktop\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\bin\Debug\System.Net.Sockets.dll
+C:\Users\XX\Desktop\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\XX\Desktop\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\XX\Desktop\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\XX\Desktop\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\XX\Desktop\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\XX\Desktop\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\XX\Desktop\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\bin\Debug\WebDriver.dll
+C:\Users\XX\Desktop\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\XX\Desktop\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\bin\Debug\HtmlRenderer.pdb
+C:\Users\XX\Desktop\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\XX\Desktop\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\bin\Debug\WebDriver.xml
+C:\Users\XX\Desktop\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\obj\Debug\IronWebScraper_ConsoleApp.csprojAssemblyReference.cache
+C:\Users\XX\Desktop\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\obj\Debug\IronWebScraper_ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\XX\Desktop\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\obj\Debug\IronWebScraper_ConsoleApp.csproj.CopyComplete
+C:\Users\XX\Desktop\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\obj\Debug\IronWebScraper_ConsoleApp.exe
+C:\Users\XX\Desktop\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\obj\Debug\IronWebScraper_ConsoleApp.pdb
+D:\用户目录\我的文档\Tencent Files\553576124\FileRecv\MobileFile\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\bin\Debug\IronWebScraper_ConsoleApp.exe.config
+D:\用户目录\我的文档\Tencent Files\553576124\FileRecv\MobileFile\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\bin\Debug\IronWebScraper_ConsoleApp.exe
+D:\用户目录\我的文档\Tencent Files\553576124\FileRecv\MobileFile\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\bin\Debug\IronWebScraper_ConsoleApp.pdb
+D:\用户目录\我的文档\Tencent Files\553576124\FileRecv\MobileFile\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\bin\Debug\DocumentFormat.OpenXml.dll
+D:\用户目录\我的文档\Tencent Files\553576124\FileRecv\MobileFile\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\bin\Debug\HtmlRenderer.dll
+D:\用户目录\我的文档\Tencent Files\553576124\FileRecv\MobileFile\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\bin\Debug\IronWebScraper.dll
+D:\用户目录\我的文档\Tencent Files\553576124\FileRecv\MobileFile\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\用户目录\我的文档\Tencent Files\553576124\FileRecv\MobileFile\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\bin\Debug\System.AppContext.dll
+D:\用户目录\我的文档\Tencent Files\553576124\FileRecv\MobileFile\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\bin\Debug\System.Console.dll
+D:\用户目录\我的文档\Tencent Files\553576124\FileRecv\MobileFile\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\用户目录\我的文档\Tencent Files\553576124\FileRecv\MobileFile\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\bin\Debug\System.Globalization.Calendars.dll
+D:\用户目录\我的文档\Tencent Files\553576124\FileRecv\MobileFile\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\bin\Debug\System.IO.Compression.dll
+D:\用户目录\我的文档\Tencent Files\553576124\FileRecv\MobileFile\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\用户目录\我的文档\Tencent Files\553576124\FileRecv\MobileFile\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\bin\Debug\System.IO.FileSystem.dll
+D:\用户目录\我的文档\Tencent Files\553576124\FileRecv\MobileFile\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\用户目录\我的文档\Tencent Files\553576124\FileRecv\MobileFile\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\bin\Debug\System.IO.Packaging.dll
+D:\用户目录\我的文档\Tencent Files\553576124\FileRecv\MobileFile\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\bin\Debug\System.Net.Http.dll
+D:\用户目录\我的文档\Tencent Files\553576124\FileRecv\MobileFile\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\bin\Debug\System.Net.Sockets.dll
+D:\用户目录\我的文档\Tencent Files\553576124\FileRecv\MobileFile\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\用户目录\我的文档\Tencent Files\553576124\FileRecv\MobileFile\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\用户目录\我的文档\Tencent Files\553576124\FileRecv\MobileFile\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\用户目录\我的文档\Tencent Files\553576124\FileRecv\MobileFile\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\用户目录\我的文档\Tencent Files\553576124\FileRecv\MobileFile\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\用户目录\我的文档\Tencent Files\553576124\FileRecv\MobileFile\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\bin\Debug\System.Xml.ReaderWriter.dll
+D:\用户目录\我的文档\Tencent Files\553576124\FileRecv\MobileFile\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\bin\Debug\WebDriver.dll
+D:\用户目录\我的文档\Tencent Files\553576124\FileRecv\MobileFile\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\bin\Debug\DocumentFormat.OpenXml.xml
+D:\用户目录\我的文档\Tencent Files\553576124\FileRecv\MobileFile\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\bin\Debug\HtmlRenderer.pdb
+D:\用户目录\我的文档\Tencent Files\553576124\FileRecv\MobileFile\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\bin\Debug\IronWebScraper.xml
+D:\用户目录\我的文档\Tencent Files\553576124\FileRecv\MobileFile\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\用户目录\我的文档\Tencent Files\553576124\FileRecv\MobileFile\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\bin\Debug\WebDriver.xml
+D:\用户目录\我的文档\Tencent Files\553576124\FileRecv\MobileFile\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\obj\Debug\IronWebScraper_ConsoleApp.csprojAssemblyReference.cache
+D:\用户目录\我的文档\Tencent Files\553576124\FileRecv\MobileFile\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\obj\Debug\IronWebScraper_ConsoleApp.csproj.CoreCompileInputs.cache
+D:\用户目录\我的文档\Tencent Files\553576124\FileRecv\MobileFile\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\obj\Debug\IronWebScraper_ConsoleApp.csproj.CopyComplete
+D:\用户目录\我的文档\Tencent Files\553576124\FileRecv\MobileFile\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\obj\Debug\IronWebScraper_ConsoleApp.exe
+D:\用户目录\我的文档\Tencent Files\553576124\FileRecv\MobileFile\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\obj\Debug\IronWebScraper_ConsoleApp.pdb
+D:\用户目录\我的文档\Tencent Files\553576124\FileRecv\MobileFile\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\bin\Debug\IronWebScraper_ConsoleApp.exe.config
+D:\用户目录\我的文档\Tencent Files\553576124\FileRecv\MobileFile\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\bin\Debug\IronWebScraper_ConsoleApp.exe
+D:\用户目录\我的文档\Tencent Files\553576124\FileRecv\MobileFile\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\bin\Debug\IronWebScraper_ConsoleApp.pdb
+D:\用户目录\我的文档\Tencent Files\553576124\FileRecv\MobileFile\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\bin\Debug\DocumentFormat.OpenXml.dll
+D:\用户目录\我的文档\Tencent Files\553576124\FileRecv\MobileFile\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\bin\Debug\HtmlRenderer.dll
+D:\用户目录\我的文档\Tencent Files\553576124\FileRecv\MobileFile\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\用户目录\我的文档\Tencent Files\553576124\FileRecv\MobileFile\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\bin\Debug\System.AppContext.dll
+D:\用户目录\我的文档\Tencent Files\553576124\FileRecv\MobileFile\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\bin\Debug\System.Console.dll
+D:\用户目录\我的文档\Tencent Files\553576124\FileRecv\MobileFile\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\用户目录\我的文档\Tencent Files\553576124\FileRecv\MobileFile\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\bin\Debug\System.Globalization.Calendars.dll
+D:\用户目录\我的文档\Tencent Files\553576124\FileRecv\MobileFile\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\bin\Debug\System.IO.Compression.dll
+D:\用户目录\我的文档\Tencent Files\553576124\FileRecv\MobileFile\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\用户目录\我的文档\Tencent Files\553576124\FileRecv\MobileFile\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\bin\Debug\System.IO.FileSystem.dll
+D:\用户目录\我的文档\Tencent Files\553576124\FileRecv\MobileFile\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\用户目录\我的文档\Tencent Files\553576124\FileRecv\MobileFile\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\bin\Debug\System.IO.Packaging.dll
+D:\用户目录\我的文档\Tencent Files\553576124\FileRecv\MobileFile\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\bin\Debug\System.Net.Http.dll
+D:\用户目录\我的文档\Tencent Files\553576124\FileRecv\MobileFile\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\bin\Debug\System.Net.Sockets.dll
+D:\用户目录\我的文档\Tencent Files\553576124\FileRecv\MobileFile\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\用户目录\我的文档\Tencent Files\553576124\FileRecv\MobileFile\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\用户目录\我的文档\Tencent Files\553576124\FileRecv\MobileFile\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\用户目录\我的文档\Tencent Files\553576124\FileRecv\MobileFile\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\用户目录\我的文档\Tencent Files\553576124\FileRecv\MobileFile\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\用户目录\我的文档\Tencent Files\553576124\FileRecv\MobileFile\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\bin\Debug\System.Xml.ReaderWriter.dll
+D:\用户目录\我的文档\Tencent Files\553576124\FileRecv\MobileFile\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\bin\Debug\WebDriver.dll
+D:\用户目录\我的文档\Tencent Files\553576124\FileRecv\MobileFile\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\bin\Debug\DocumentFormat.OpenXml.xml
+D:\用户目录\我的文档\Tencent Files\553576124\FileRecv\MobileFile\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\bin\Debug\HtmlRenderer.pdb
+D:\用户目录\我的文档\Tencent Files\553576124\FileRecv\MobileFile\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\用户目录\我的文档\Tencent Files\553576124\FileRecv\MobileFile\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\bin\Debug\WebDriver.xml
+D:\用户目录\我的文档\Tencent Files\553576124\FileRecv\MobileFile\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\obj\Debug\IronWebScraper_ConsoleApp.csprojAssemblyReference.cache
+D:\用户目录\我的文档\Tencent Files\553576124\FileRecv\MobileFile\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\obj\Debug\IronWebScraper_ConsoleApp.csproj.CoreCompileInputs.cache
+D:\用户目录\我的文档\Tencent Files\553576124\FileRecv\MobileFile\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\obj\Debug\IronWebScraper_ConsoleApp.csproj.CopyComplete
+D:\用户目录\我的文档\Tencent Files\553576124\FileRecv\MobileFile\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\obj\Debug\IronWebScraper_ConsoleApp.exe
+D:\用户目录\我的文档\Tencent Files\553576124\FileRecv\MobileFile\IronWebScraper_ConsoleApp\IronWebScraper_ConsoleApp\obj\Debug\IronWebScraper_ConsoleApp.pdb
